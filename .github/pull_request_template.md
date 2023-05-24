@@ -21,9 +21,17 @@ Fixes #{feature/bug number}
 
 ----
 
-## When servicing release/2.1
+## When servicing release X
 
 - [ ] Remember to do x, y, z
+
+---
+## Checklist before requesting a review
+- [ ] I have performed a self-review of my code
+- [ ] I have tested my code thoroughly.
+- [ ] There is sufficient logging to trace potential errors.
+
+---
 
 ## Reviewer checklist
 - [ ] Does the code adhere to the practices within the solution?
