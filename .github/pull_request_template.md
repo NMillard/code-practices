@@ -27,6 +27,7 @@ Fixes #{feature/bug number}
 
 ---
 ## Checklist before requesting a review
+- [ ] The revision number is updated.
 - [ ] I have performed a self-review of my code
 - [ ] I have tested my code thoroughly.
 - [ ] There is sufficient logging to trace potential errors.
